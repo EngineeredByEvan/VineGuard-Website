@@ -3,7 +3,7 @@ import React from "react";
 export default function PrivacyPolicyPage() {
   return (
     <main className="flex min-h-screen justify-center bg-white px-4 py-10">
-      <section className="w-full max-w-2xl rounded-xl bg-[#23292b] p-8 shadow-lg">
+      <section className="w-full max-w-2xl rounded-xl bg-white p-8 shadow-lg">
         <h1 className="text-3xl font-bold mb-2 text-[#a7ff83]">Privacy Policy</h1>
         <p className="mb-2 text-sm text-gray-400">
           <strong>Effective Date:</strong> June 4, 2025
