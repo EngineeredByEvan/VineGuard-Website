@@ -35,6 +35,7 @@ export default function RootLayout({
               <li><a href="/features" className="hover:text-green-700">Features</a></li>
               <li><a href="/pilot" className="hover:text-green-700">Pilot</a></li>
               <li><a href="/contact" className="hover:text-green-700">Contact</a></li>
+              <li><a href="/privacy" className="hover:text-green-700">Privacy</a></li>
             </ul>
           </nav>
         </header>
